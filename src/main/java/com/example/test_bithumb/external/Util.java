@@ -1,4 +1,4 @@
-package service.external;
+package com.example.test_bithumb.external;
 
 import java.io.UnsupportedEncodingException;
 import java.math.BigInteger;
